@@ -1,0 +1,10 @@
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background: #f3f4f7;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+
+/* Remove old duplicate sidebar & topbar styles because main.css now handles everything */
